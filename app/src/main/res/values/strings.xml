@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Finding Pets</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="syncServer">Синхронизация с сервером</string>
+    <string name="save">Сохранить</string>
+    <string name="refresh">Обновить</string>
+    <string name="add">Добавить</string>
+    <string name="req_auth">Вы не авторизованы</string>
+    <string name="auth">Вход</string>
+    <string name="reg">Регистрация</string>
+    <string name="fio">ФИО</string>
+    <string name="phone">Номер телефона</string>
+    <string name="ad_wall">Разместить запись</string>
+    <string name="my_wall">Мои записи</string>
+    <string name="title_activity_wall_on_map">Map</string>
+    <string name="title_activity_show_on_map">Map</string>
+    <string name="title_activity_select_on_maps">Map</string>
+
+
+</resources>
